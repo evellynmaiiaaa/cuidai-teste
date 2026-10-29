@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "pmv-ads-2026-2-e3-proj-mov-t6"
+assignment: "pmv-ads-2026-2-e3-proj-mov-t6"
+secret: "xrawb4xg"
+owner:
+  username: "Diego-Parreiras-Andrade"
+  id: 232940846
+  accepted_at: "2026-08-27T21:22:38Z"
+source:
+  owner: "ICEI-PUC-Minas-PMV-ADS"
+  owner_id: 80099293
+  repo: "MovApplicationProject-Template-v2"
+  branch: "main"
